@@ -3,3 +3,4 @@ I have done a new layout of PiHPSDR Controller V2 using a 5 inch capacitive LCD 
 There are 2 versions of the schematics and Gerber files. The latest version is with the possibility to use the Chineese rotary encoder (or the HRPG-ASCA#) I strongly advice to use the Chineese one!
 The software used is found https://github.com/g0orx?tab=repositories 
 I am working with the BOM for this controller.
+The .fpd file can be opened by Front Panel Designer
